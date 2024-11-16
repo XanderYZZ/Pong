@@ -2,8 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <SDL.h>
-#include <SDL_ttf.h>
-
 #include "./constants.h"
 
 int game_is_running = FALSE;
